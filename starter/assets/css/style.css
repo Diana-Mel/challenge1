@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/**Header styling **/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,15 +61,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/**Content section styling **/
 
 .content {
     width: 75%;
@@ -93,6 +87,15 @@ p {
     font-size: 36px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 .benefits {
     margin-right: 20px;
