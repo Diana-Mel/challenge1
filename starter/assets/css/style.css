@@ -77,14 +77,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+.content-block h2 {
+    margin-bottom: 20px;
+    font-size: 36px
+}    
 
 .content-block img {
     max-height: 200px;
-}
-
-.content-block h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .float-left {
